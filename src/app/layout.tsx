@@ -13,7 +13,12 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Vikas Rajliwal - Developer",
   description:
-    "Vikas Rajliwal is a full-stack developer, tech enthusiast, and community leader. He builds intelligent web apps using React, Django, and machine learning, and actively contributes to events, seminars, and tech initiatives.",
+  
+  "Vikas Rajliwal is a full-stack developer, tech enthusiast, and community leader. He builds intelligent web apps using React, Django, and machine learning, and actively contributes to events, seminars, and tech initiatives.",
+   icons: {
+    icon: "/favicon.ico", 
+  },
+
 };
 
 export default function RootLayout({
