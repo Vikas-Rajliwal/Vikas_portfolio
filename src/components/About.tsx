@@ -75,25 +75,25 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className="mt-4">
-          Hey there, I'm Vikas Rajliwal — a full-stack developer, tech enthusiast, and passionate creator with a knack for building intelligent and impactful digital solutions.
+          Hey there, I am Vikas Rajliwal — a full-stack developer, tech enthusiast, and passionate creator with a knack for building intelligent and impactful digital solutions.
         </Paragraph>
         <Paragraph className="mt-4">
           From coding AI-powered music recommendations based on facial emotions to crafting seamless user experiences in web applications, my journey has been all about blending logic with creativity. I specialize in technologies like React, Django, Node.js, and Python to bring ideas to life.
         </Paragraph>
         <Paragraph className="mt-4">
-          Beyond development, I find joy in leading initiatives and sharing knowledge. Whether it’s organizing career-driven seminars, collaborating on tech events, or presenting ideas on stage, I believe in empowering others through technology and community engagement.
+          Beyond development, I find joy in leading initiatives and sharing knowledge. Whether it is organizing career-driven seminars, collaborating on tech events, or presenting ideas on stage, I believe in empowering others through technology and community engagement.
         </Paragraph>
         <Paragraph className="mt-4">
-          I am also an advocate for clean, user-focused design. Every project I take on is built with performance, accessibility, and visual finesse in mind. To me, great software doesn’t just work — it resonates with the people who use it.
+          I am also an advocate for clean, user-focused design. Every project I take on is built with performance, accessibility, and visual finesse in mind. To me, great software does not just work — it resonates with the people who use it.
         </Paragraph>
         <Paragraph className="mt-4">
-          This site is where I share my projects, thoughts, and learnings from the ever-evolving world of tech. Whether you're a developer, a designer, or just someone curious about innovative solutions — there's something here for you.
+          This site is where I share my projects, thoughts, and learnings from the ever-evolving world of tech. Whether you are a developer, a designer, or just someone curious about innovative solutions — there is something here for you.
         </Paragraph>
         <Paragraph className="mt-4">
           Join me as I continue to explore new technologies, contribute to the developer community, and turn code into experiences that matter.
         </Paragraph>
         <Paragraph className="mt-4">
-          Thanks for stopping by — let’s build something amazing together.
+          Thanks for stopping by — let us build something amazing together.
         </Paragraph>
       </div>
 

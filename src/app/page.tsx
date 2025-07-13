@@ -12,11 +12,11 @@ export default function Home() {
       <span className="text-4xl">👋</span>
       <Heading className="font-black">Hello there! I  am Vikas Rajliwal</Heading>
       <Paragraph className="max-w-xl mt-4">
-        I am a full-stack developer passionate about <Highlight>building intelligent solutions</Highlight> and web applications that create real-world impact and inspire innovation.
+        I am  full-stack developer passionate about <Highlight>building intelligent solutions</Highlight> and web applications that create real-world impact and inspire innovation.
       </Paragraph>
 
       <Paragraph className="max-w-xl mt-4">
-        I'm a full-stack developer with a growing focus on <Highlight>AI-powered applications</Highlight> that are scalable, efficient, and thoughtfully crafted.
+        I am a full-stack developer with a growing focus on <Highlight>AI-powered applications</Highlight> that are scalable, efficient, and thoughtfully crafted.
       </Paragraph>
 
       <Heading
