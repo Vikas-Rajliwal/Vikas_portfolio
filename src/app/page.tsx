@@ -10,9 +10,9 @@ export default function Home() {
   return (
     <Container>
       <span className="text-4xl">👋</span>
-      <Heading className="font-black">Hello there! I&apos;m Vikas Rajliwal</Heading>
+      <Heading className="font-black">Hello there! I  am Vikas Rajliwal</Heading>
       <Paragraph className="max-w-xl mt-4">
-        I'm a full-stack developer passionate about <Highlight>building intelligent solutions</Highlight> and web applications that create real-world impact and inspire innovation.
+        I am a full-stack developer passionate about <Highlight>building intelligent solutions</Highlight> and web applications that create real-world impact and inspire innovation.
       </Paragraph>
 
       <Paragraph className="max-w-xl mt-4">

@@ -84,7 +84,7 @@ export default function About() {
           Beyond development, I find joy in leading initiatives and sharing knowledge. Whether it’s organizing career-driven seminars, collaborating on tech events, or presenting ideas on stage, I believe in empowering others through technology and community engagement.
         </Paragraph>
         <Paragraph className="mt-4">
-          I’m also an advocate for clean, user-focused design. Every project I take on is built with performance, accessibility, and visual finesse in mind. To me, great software doesn’t just work — it resonates with the people who use it.
+          I am also an advocate for clean, user-focused design. Every project I take on is built with performance, accessibility, and visual finesse in mind. To me, great software doesn’t just work — it resonates with the people who use it.
         </Paragraph>
         <Paragraph className="mt-4">
           This site is where I share my projects, thoughts, and learnings from the ever-evolving world of tech. Whether you're a developer, a designer, or just someone curious about innovative solutions — there's something here for you.
